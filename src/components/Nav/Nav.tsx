@@ -9,7 +9,7 @@ const Nav = () => {
         <p>
           <Link href="/">
           <h5 className="text-2xl font-bold text-center text-orange-500 mb-20">
-             Bitmap Community
+             Stone Face Ords Community
             </h5>
           </Link>
         </p>
